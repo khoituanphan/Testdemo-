@@ -19,3 +19,5 @@ elif dis == 0:
   
 else:  
     print("Equation has no root")  
+    print("J")
+    print("tesst")
